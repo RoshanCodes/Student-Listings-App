@@ -1,8 +1,8 @@
-# Java Listing App
+# Student Listing App
 
 ## Overview
 
-This Java Listing App is a collaborative project developed by a team of four. The application serves as a platform for users to list and review various items, with key features including.
+This Android Studio Java Listing App is a collaborative project developed by a team of four. The application serves as a platform for users to list and review various items, with key features including.
 
 ## Contributions
 

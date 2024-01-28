@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Android Studio Java Listing App is a collaborative project developed by a team of four. The application serves as a platform for users to list and review various items, including key features.
+This Android Studio Java Listing App is a collaborative project developed by a team of four. The application serves as a platform for users to list and review various items.
 
 ## Contributions
 
